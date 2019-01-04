@@ -1,5 +1,5 @@
 # Initial-repo
-This repo is no use except that this is for understanding
+This repo is no use except,
 
 
 Just typing to differ
